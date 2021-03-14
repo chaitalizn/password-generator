@@ -10,7 +10,7 @@ Character types options included: uppercase, lowercase, number or special charac
 * JavaScript
 
 ## Pseudo Code 
-![Pseudo code](assets/pseudo code.png)
+![Pseudo code](assets/pseudo-code.png)
 
 ## Website
 (https://chaitalizn.github.io/password-generator/)
