@@ -9,8 +9,7 @@ Character types options included: uppercase, lowercase, number or special charac
 * CSS
 * JavaScript
 
-## Screencapture of the Final Website 
-![Screencapture after refactor](assets/pseudo code.png)
-
+## Pseudo Code 
+![Pseudo code](password-generator/assets/pseudo code.png)
 ## Website
 (https://chaitalizn.github.io/password-generator/)
