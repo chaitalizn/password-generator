@@ -10,7 +10,7 @@ Character types options included: uppercase, lowercase, number or special charac
 * JavaScript
 
 ## Screencapture of the Final Website 
-![Screencapture after refactor](assets/images/screencapture-horiseon-refactor-code.png)
+![Screencapture after refactor](assets/pseudo code.png)
 
 ## Website
 (https://chaitalizn.github.io/password-generator/)
